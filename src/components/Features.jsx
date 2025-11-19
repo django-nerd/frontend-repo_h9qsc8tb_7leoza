@@ -1,8 +1,8 @@
-import { CalendarCheck2, ChartNoAxesCombined, MessageSquare, Workflow } from "lucide-react";
+import { CalendarCheck2, BarChart3, MessageSquare, Workflow } from "lucide-react";
 
 const features = [
   {
-    icon: <ChartNoAxesCombined className="text-cyan-300" size={22} />,
+    icon: <BarChart3 className="text-cyan-300" size={22} />,
     title: "Pipeline analytics",
     desc: "Forecast revenue with real-time insights across every stage of your funnel.",
   },
